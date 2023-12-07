@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/sparkout/Documents/projects/test-coverage/src/tests/index.test.js">
+    <testCase name="Get Endpoints Get" duration="48"/>
+  </file>
+</testExecutions>
